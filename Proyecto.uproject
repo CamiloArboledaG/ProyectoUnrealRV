@@ -7,6 +7,14 @@
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
+		},
+		{
+			"Name": "GoogleVRController",
+			"Enabled": true
+		},
+		{
+			"Name": "GoogleVRHMD",
+			"Enabled": true
 		}
 	]
 }
